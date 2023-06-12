@@ -1,0 +1,33 @@
+/* .body-img {
+  background-image: url(./assets/vertical-grid-5.png);
+  background-position: left top;
+  background-size: auto;
+  background-repeat: repeat;
+  background-attachment: scroll;
+} */
+
+.body-color {
+  background:#0c0909;
+  color: #b68b03;
+  background-image: url(./assets/vertical-grid-5.png);
+  background-position: left top;
+  background-size: auto;
+  background-repeat: repeat;
+  background-attachment: scroll;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.link{
+  border: 1px solid  #b68b03;
+  border-radius: 25%;
+  padding: 10px 20px;
+  margin: 0 5px;
+  color: aliceblue;
+}
